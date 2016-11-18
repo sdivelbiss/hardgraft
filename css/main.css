@@ -1,0 +1,119 @@
+html {
+	background-color: #dadad2 !important;
+	font-family: 'Roboto Condensed', sans-serif;
+	font-weight: 300;
+	letter-spacing: 1px;
+	bottom: 150px;
+
+}
+
+.title {
+	width: 140px;
+	height: 39px;
+	margin: 1% 47% 5% 43%;
+}
+
+
+
+img {
+	height: 205px;
+	width: 310px;
+}
+
+img:hover {
+	transform: scale(1.1);
+}
+
+h4 {
+	margin: 5px 0 5px 0;
+}
+span {
+	font-size: 10px;
+}
+
+.products {
+	display: inline-block;
+	margin-left: 24%;
+	margin-right: 24%;
+	margin-top: 8%;
+}
+
+.col-sm-3 {
+	display: inline-block;
+	text-align: center;
+	margin: 0 auto;
+}
+
+button{
+	border: none;
+	background-color: #96a582;
+	color: #fff;
+	width: 125px;
+	height: 20px;
+	font-style: 13px;
+	outline: none;
+}
+
+button:hover {
+	background-color: #34322f;
+	opacity: 0.7;
+	color: #fff;
+	border: none;
+	transition: all ease-in-out 0.2s;
+}
+
+
+
+button {
+    letter-spacing: 0;
+    border: none;
+	background-color: #96a582;
+	color: #fff;
+	width: 125px;
+	height: 20px;
+	font-size: 13px;
+	outline: none;
+}
+
+button:hover,
+button:active {
+  letter-spacing: 1px;
+}
+
+/*button:after,
+button:before {
+  backface-visibility: hidden;
+  border: 1px solid rgba(#fff, 0);
+  bottom: 0px;
+  content: " ";
+  display: block;
+  margin: 0 auto;
+  position: relative;
+  transition: all 280ms ease-in-out;
+  width: 0;
+}
+
+button:hover:after,
+button:hover:before {
+  backface-visibility: hidden;
+  border-color: #fff;
+  transition: width 350ms ease-in-out;
+  width: 70%;
+}
+
+button:hover:before {
+  bottom: auto;
+  top: 0;
+  width: 70%;
+}*/
+
+
+
+
+
+
+
+
+
+
+
